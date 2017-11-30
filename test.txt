@@ -1,5 +1,3 @@
 This is file from github.
-This is from master local repo
-Again editing the same file
-This is changed in github url
+
 
